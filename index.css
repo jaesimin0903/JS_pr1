@@ -1,6 +1,4 @@
-body{
-    background-color: white;
-}
+
 
 .btn{
     cursor: pointer;
@@ -9,7 +7,12 @@ body{
 
 body{
     color:white;
+    margin: 230px 0px;
+    text-align: center;
 }
+
+
+
 
 .clicked{
     color : #7f8c8d;
@@ -42,3 +45,6 @@ body{
     z-index:-1;
     animation: fadeIn .5s linear;
 }
+
+#clock{font-size: x-large;}
+
